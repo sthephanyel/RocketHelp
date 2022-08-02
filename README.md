@@ -8,13 +8,13 @@ Criando uma lista de chamados que podem ser feitos pelo aplicativo, mostrando qu
 organizando assim melhor a demanda da empresa.<br/>
 Para criar um login de autentificação e armazenar as informações foi utilizado o <a href="https://console.firebase">Firebase</a>, assim como o React Native Firebase, <br/> que 
 oferece suporte ao React Native para utilização das funcionalidades do Firebase.<br/>
-composta por 4 telas no total.
+composta por 4 telas no total.<br/>
 
 ##Telas
->SignIn
->Home
->Register
->Details
+>SignIn<br/>
+>Home<br/>
+>Register<br/>
+>Details<br/>
 
 <br/>
 
