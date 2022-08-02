@@ -11,11 +11,11 @@ oferece suporte ao React Native para utilização das funcionalidades do Firebas
 <br/>
 <br/>
 OBS: 
--A aplicação deve ser rodada atraves do comando expo run:android, pois o <a href="https://nativebase.io/">Native Base</a> ainda não consegue trabalhar totalmente com o <br/>
+-A aplicação deve ser rodada atraves do comando expo run:android, pois o <a href="https://nativebase.io/">Native Base</a> ainda não consegue trabalhar totalmente com o
 Expo.Go <br/>
 -Não foi criado uma tela de cadastro, mais é possível entrar na aplicação através das credenciais: <br/>
->Login:teste@teste.com
->Senha: 123456
+>Login:teste@teste.com <br/>
+>Senha: 123456 <br/>
 
 
 ## Telas
