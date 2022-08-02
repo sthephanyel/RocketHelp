@@ -10,7 +10,7 @@ Para criar um login de autentificação e armazenar as informações foi utiliza
 oferece suporte ao React Native para utilização das funcionalidades do Firebase.<br/>
 <br/>
 <br/>
-OBS: 
+OBS: <br/>
 -A aplicação deve ser rodada atraves do comando expo run:android, pois o <a href="https://nativebase.io/">Native Base</a> ainda não consegue trabalhar totalmente com o
 Expo.Go <br/>
 -Não foi criado uma tela de cadastro, mais é possível entrar na aplicação através das credenciais: <br/>
